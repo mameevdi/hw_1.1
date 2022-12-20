@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //вывести 3 числа
         var dog = 8;
         System.out.println(dog);
         var cat = 3.6;
